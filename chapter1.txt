@@ -1,0 +1,2 @@
+This is a new text
+This is another line of text message pushed to the text file from the command line
